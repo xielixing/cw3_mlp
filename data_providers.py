@@ -18,7 +18,7 @@ from torch.utils.data import Dataset
 from torchvision import transforms
 from torchvision.datasets.utils import download_url, check_integrity
 import sys
-sys.path.append('/home/hilbertxu/Downloads/mlpractical')
+sys.path.append('/home/hilbertxu/Downloads/mlpractical'
 from mlp import DEFAULT_SEED
 
 
